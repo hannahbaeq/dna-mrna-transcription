@@ -1,5 +1,5 @@
 //Title: proj3.h
-//Author: ####
+//Author: ###### #####
 //Date: 3/14/2023
 //Description: This is part of the Transcription and Translation Project in CMSC 202 @ UMBC
 
